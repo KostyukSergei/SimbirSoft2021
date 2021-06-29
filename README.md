@@ -1,7 +1,7 @@
 # SimbirSoft2021
 Тестовое задание по Android для SimbirSoft.
 
-Программа написана в Qt 5.15.1.
+Программа написана в Qt 5.15.1. Apk прилагается.
 
 <img src="https://user-images.githubusercontent.com/86673990/123827910-b0dae280-d909-11eb-873e-f54f91266147.jpg" width="240">
 <img src="https://user-images.githubusercontent.com/86673990/123827914-b20c0f80-d909-11eb-93ae-93264c5baa56.jpg" width="240">
